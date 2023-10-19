@@ -8,7 +8,7 @@ This README file provides essential information for the Weather Web Development 
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- Video(#Video)
+- [Video](#Video)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
