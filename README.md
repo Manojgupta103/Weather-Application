@@ -33,10 +33,14 @@ To get started with the Weather Web Development Application, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   [git clone https://github.com/your-username/weather-app.git](https://github.com/Manya103/TAIRP-Web-Task-Level-2-Task-2-Weather-Application.git)
    ```
 
 ## Video 
+
+
+https://github.com/Manya103/TAIRP-Web-Task-Level-2-Task-2-Weather-Application/assets/113758890/c0dac732-1387-4a2e-a111-131f1be0226b
+
 
 ## Usage
 
